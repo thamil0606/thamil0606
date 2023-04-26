@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thamilselvan</h1>
+<h1 align="center">Hi, I'm Thamilselvan</h1>
+<h2 align="center">Software Engineer</h2>
 <h3 align="center">I've been in product development for over two years. I am currently employed as a Software Engineer at Aspire Systems, where I create innovative products that help clients advance in their careers. <br> <br> I have a strong desire to create well-liked and reliable products that help users navigate their careers and achieve their career objectives. Previously, I worked as a.NET Developer at Saint-Gobain India, where I improved product development and services for our customers by utilizing advanced technology, as well as creating and maintaining databases. <br><br> Additionally, I enjoy making new friends over a cup of coffee. Contact me at thamilselvan060698@gmail.com or via Instagram DM at @thamil0606.</h3>
 
 <img style="width:60%;" alt ="coding" align="right" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
